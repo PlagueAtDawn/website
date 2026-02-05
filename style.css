@@ -1,0 +1,36 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/************* fonts ***************/
+
+/************* colors ***************/
+h1 {
+  margin-block: 2rem 1rem;
+  color: rgb(162, 51, 155);
+}
+
+h2 {
+  color: rgb(128, 13, 55);
+}
+
+.color3 {
+  color: rgb(111, 7, 132);
+}
+.color4 {
+  color: rgb(118, 80, 176);
+}
+.color5 {
+  color: rgb(48, 102, 194);
+}
+.forside_billede {
+}
